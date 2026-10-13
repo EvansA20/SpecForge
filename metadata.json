@@ -1,0 +1,6 @@
+{
+  "name": "SpecForge",
+  "description": "SpecForge — Software Requirements Specification (SRS) platform built by Evans Ayanlude Abayomi (Founder & CEO, WebForge Team) for creating, tracking, validating, and exporting IEEE 830-style SRS documents in PDF and DOCX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
